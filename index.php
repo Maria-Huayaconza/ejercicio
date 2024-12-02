@@ -49,3 +49,10 @@ imprimirdatos($usb1);
 echo"<br>";
 imprimirdatos($discoduro1);
 
+ejercicio07
+$usb1 = new usb();
+$discoduro1= new discoduro();
+echo"<br>";
+imprimirdatos($usb1);
+echo"<br>";
+imprimirdatos($discoduro1);
